@@ -58,7 +58,7 @@ def get_stats(values: str):
     
     # Return the final JSON exactly as the grader expects
     return {
-        "email": "your.email@example.com", # REPLACE THIS!
+        "email": "24f1001272@ds.study.iitm.ac.in", # REPLACE THIS!
         "count": count_val,
         "sum": sum_val,
         "min": min_val,
